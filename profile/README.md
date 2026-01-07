@@ -89,6 +89,3 @@ core platforms, products, and open-source contributions.
 ⭐ Star our repositories to follow our journey!
 
 </div>
-
-](https://github.com/A2R-Software-Solution/.github
-)
