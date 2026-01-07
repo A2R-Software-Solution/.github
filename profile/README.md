@@ -1,4 +1,4 @@
-# 🚀 A2R Software Solution
+#  A2R Software Solution
 ### Building intelligent digital ecosystems for tomorrow’s challenges
 
 **A2R Software Solution** is a forward-thinking technology studio specializing in  
